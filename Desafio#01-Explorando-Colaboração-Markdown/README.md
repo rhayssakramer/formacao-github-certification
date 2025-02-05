@@ -36,10 +36,10 @@ Vamos testar tudo o que aprendemos sobre o Git e GitHub, seus processos de colab
 >Como desafio extra autenticar utilizando algum método de segurança oferecido pelo Github.
 
 ### ▶️ Conclusão
-Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials e da Formação Microsoft AZ-900 Certification. Explore os recursos compartilhados necessários para atender às suas necessidades de nuvem.
+Este guia serve como repositório de estudos, desafios e projetos da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Explore os recursos compartilhados necessários para atender às suas necessidades de GitHub.
 
 ## 🖋️ Créditos
-Este repositório foi desenvolvido como guia de estudos da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification), para avaliar o ensinado na formação sobre GitHub com finalidade de obter Certificação GitHub Foundations.
+Este repositório foi desenvolvido como guia de estudos da Formação Github Certification, para avaliar o ensinado na formação sobre GitHub com finalidade de obter Certificação GitHub Foundations.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
