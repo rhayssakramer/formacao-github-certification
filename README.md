@@ -5,9 +5,9 @@ Este repositório corresponde ao compliado de conteúdos utilizados na [Formaç�
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp e da formação, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 🔍 [Recursos de Estudo:]() links e materiais recomendados para o estudo da Certificação da GitHub Foundations.
-- 💻 [Projetos e Desafios:]() códigos e exercícios práticos realizados durante a formação.
-- 🔗 [Links Úteis:]() links, artigos e documentação oficial (Material de grande importância para o exame GitHub Foundations).
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/formacao-github-certification?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo da Certificação da GitHub Foundations.
+- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/formacao-github-certification?tab=readme-ov-file#-projetos-e-desafios) códigos e exercícios práticos realizados durante a formação.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/formacao-github-certification?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial (Material de grande importância para o exame GitHub Foundations).
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para se preparar para o exame:
@@ -18,7 +18,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 Veja os projetos e desafios que completei d a formação:
 - [Desafios de Código]()
 - [Desafio 1: Explorando Colaboração e Markdown](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2301-Explorando-Colabora%C3%A7%C3%A3o-Markdown)
-- [Desafio 2: Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python]()
+- [Desafio 2: Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot)
 - [Desafio 3: Utilizando Recursos do Github em um Projeto Open Source]()
 
 ### 🔗 Links Úteis

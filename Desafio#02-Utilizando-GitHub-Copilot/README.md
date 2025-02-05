@@ -3,8 +3,9 @@
 Este repositório corresponde ao Desafio #02 da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification) para fornecer instruções sobre como utilizar as ferramentas do Github Copilot para solucionar Algoritmos em `Python`.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Objetivos]()
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#-desafio-de-projeto)
+- [Objetivos](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#%EF%B8%8F-objetivos)
+- [Desafios](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#-desafios)
 
 ### 🎯 Desafio de Projeto
 Vamos verificar algumas resoluções de códigos em `Python` utilizando o Github Copilot.
@@ -74,6 +75,14 @@ O que aprenderemos?
 - Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 - Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
 ```
+### 💻 Desafios
+Veja os desafios que completei:
+- [Desafio 1 - Concatenando Dados](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2302-Utilizando-GitHub-Copilot/resolucoes-codigos/1-concatenando-dados.py)
+- [Desafio 2 - Repetindo Textos](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2302-Utilizando-GitHub-Copilot/resolucoes-codigos/2-repetindo-textos.py)
+- [Desafio 3 - Operações Matemáticas Simples](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2302-Utilizando-GitHub-Copilot/resolucoes-codigos/3-operacoes.py)
+- [Desafio 4 - Verificando Números Pares e Ímpares](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2302-Utilizando-GitHub-Copilot/resolucoes-codigos/4-numeros-par-impar.py)
+- [Desafio 5 - Calculando Média de Notas](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2302-Utilizando-GitHub-Copilot/resolucoes-codigos/5-media-notas.py)
+- [Desafio 6 - Verificando Palíndromos](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2302-Utilizando-GitHub-Copilot/resolucoes-codigos/6-palindromo.py)
 
 ### ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Explore os recursos compartilhados necessários para atender às suas necessidades de GitHub.
