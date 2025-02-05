@@ -18,9 +18,9 @@ Nesse desafio deve-se criar Wikis com conteúdos teóricos e de aprendizados sob
 
 ### 📝 Wikis    
 Veja os conteúdos construídos nesse desafio:
-- [Introdução à Lógica de Programação]()
-- [Estrutura de Dados]()
-- [Programação Orientada a Objetos]()
+- [Introdução à Lógica de Programação](https://github.com/rhayssakramer/formacao-github-certification/wiki/1.-L%C3%B3gica-de-Programa%C3%A7%C3%A3o)
+- [Estrutura de Dados](https://github.com/rhayssakramer/formacao-github-certification/wiki/2.-Estrutura-de-Dados)
+- [Programação Orientada a Objetos](https://github.com/rhayssakramer/formacao-github-certification/wiki/3.-Programa%C3%A7%C3%A3o-Orientada-a-Objetos)
 
 ### ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Explore os recursos compartilhados necessários para atender às suas necessidades de GitHub.
