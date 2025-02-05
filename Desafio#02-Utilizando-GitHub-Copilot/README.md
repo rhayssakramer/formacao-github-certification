@@ -5,7 +5,7 @@ Este repositório corresponde ao Desafio #02 da [Formação Github Certification
 ### Índice
 - [Desafio de Projeto](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#-desafio-de-projeto)
 - [Objetivos](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#%EF%B8%8F-objetivos)
-- [Desafios]()
+- [Desafios](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#-desafios)
 
 ### 🎯 Desafio de Projeto
 Vamos verificar algumas resoluções de códigos em `Python` utilizando o Github Copilot.
