@@ -3,8 +3,8 @@
 Este repositório corresponde ao Desafio #01 da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification) para fornecer instruções sobre como formatar o README.md com o Markdown e explorar a Colaboração no GitHub.
 
 ### Índice
-- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-github-certification/edit/main/Desafio%2301-Explorando-Colabora%C3%A7%C3%A3o-Markdown/README.md#-desafio-de-projeto)
-- [Objetivos](https://github.com/rhayssakramer/formacao-github-certification/edit/main/Desafio%2301-Explorando-Colabora%C3%A7%C3%A3o-Markdown/README.md#%EF%B8%8F-objetivos)
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2301-Explorando-Colabora%C3%A7%C3%A3o-Markdown#-desafio-de-projeto)
+- [Objetivos](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2301-Explorando-Colabora%C3%A7%C3%A3o-Markdown#%EF%B8%8F-objetivos)
 
 ### 🎯 Desafio de Projeto
 Vamos testar tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown.
