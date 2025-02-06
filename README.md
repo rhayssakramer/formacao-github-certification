@@ -15,7 +15,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 - [Coleção do GitHub Foundations no LinkedIn Learning](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification)
 
 ### 💻 Projetos e Desafios  
-Veja os projetos e desafios que completei d a formação:
+Veja os projetos e desafios que completei durante a formação:
 - [Desafios de Código]()
 - [Desafio 1: Explorando Colaboração e Markdown](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2301-Explorando-Colabora%C3%A7%C3%A3o-Markdown)
 - [Desafio 2: Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot)
