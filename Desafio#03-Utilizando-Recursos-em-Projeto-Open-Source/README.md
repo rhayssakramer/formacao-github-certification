@@ -5,7 +5,7 @@ Este repositório corresponde ao Desafio #03 da [Formação Github Certification
 ### Índice
 - [Desafio de Projeto](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2303-Utilizando-Recursos-em-Projeto-Open-Source#-desafio-de-projeto)
 - [Wikis](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2303-Utilizando-Recursos-em-Projeto-Open-Source#-wikis)
-- [Exercícios]()
+- [Exercícios](https://github.com/rhayssakramer/formacao-github-certification/blob/main/Desafio%2303-Utilizando-Recursos-em-Projeto-Open-Source/README.md#-exerc%C3%ADcios)
 
 ### 🎯 Desafio de Projeto
 A Lógica de Programação é a base do desenvolvimento de software. Ela envolve compreender problemas, decompô-los em passos menores e organizar esses passos de forma sistemática para criar soluções. Essa habilidade é essencial para qualquer pessoa interessada em programação, independentemente da linguagem ou tecnologia específica.
