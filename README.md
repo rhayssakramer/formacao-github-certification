@@ -49,9 +49,9 @@ Este repositório foi desenvolvido como guia de estudos da Formação Github Cer
         <span><b>Rhayssa Kramer</b></span>
       </a>
       <br>
-      <span>Assoc, Full-Stack Development</span>
+      <span>Sr. Assoc, Full-Stack Development</span>
     </td>
   </tr>
 </table>
 
-<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/user-attachments/assets/27f933bf-6bb5-418d-aa0f-842b65185a82" width="130"></a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/by-devrhakramer.png" width="100"></a></div>
