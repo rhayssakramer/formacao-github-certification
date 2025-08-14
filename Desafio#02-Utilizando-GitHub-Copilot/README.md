@@ -176,7 +176,7 @@ Veja os desafios que completei:
 - [Documentação do GitHub](https://docs.github.com/pt)
 
 ## 🔗 Créditos
-Este guia serve como repositório de estudos, desafios e projetos da [Formação GitHub Certification](https://web.dio.me/track/formacao-github-certification), para avaliar o ensinado sobre fornecer instruções sobre como utilizar as ferramentas do Github Copilot para solucionar Algoritmos em `Python`..
+Este guia serve como repositório de estudos, desafios e projetos da [Formação GitHub Certification](https://web.dio.me/track/formacao-github-certification), para avaliar o ensinado sobre fornecer instruções sobre como utilizar as ferramentas do Github Copilot para solucionar Algoritmos em `Python`.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
