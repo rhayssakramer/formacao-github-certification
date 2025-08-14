@@ -39,15 +39,15 @@ Veja os projetos e desafios que completei durante a formação:
 - [Perguntas Frequentes](https://examregistration.github.com/faq)
 - [Artigo sobre Certificações do GitHub do Datacamp](https://www.datacamp.com/pt/blog/GitHub-certifications)
 
-### ▶️ Conclusão
+## ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Explore os recursos compartilhados necessários para atender às suas necessidades de GitHub.
 
-### 🖋️ Créditos
+## 🔗 Créditos
 Este repositório foi desenvolvido como guia de estudos da Formação Github Certification, para avaliar o ensinado na formação sobre GitHub com finalidade de obter Certificação GitHub Foundations.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
-### 👩🏼‍💻 Autora:
+## 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
