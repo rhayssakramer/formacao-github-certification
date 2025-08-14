@@ -1,6 +1,12 @@
-## 🐙 Formação Github Certification
+<img scr="./img/topo.png">
 
-Este repositório corresponde ao compliado de conteúdos utilizados na [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a formação.
+# 🐙 Formação Github Certification
+
+<div align="justify">
+  <img src="./img/github-foundations.webp" align="left" width="80">
+  <span align="right" align-items="justify">Este repositório corresponde ao compliado de conteúdos utilizados na [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a formação.
+  </span>
+</div>
 
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp e da formação, assim como os desafios, links úteis, estudos e outros recursos.
@@ -54,4 +60,4 @@ Este repositório foi desenvolvido como guia de estudos da Formação Github Cer
   </tr>
 </table>
 
-<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/by-devrhakramer.png" width="100"></a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/rodape.png"></a></div>
