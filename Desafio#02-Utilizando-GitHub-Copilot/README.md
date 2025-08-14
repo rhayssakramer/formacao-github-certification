@@ -5,7 +5,7 @@ Este repositório corresponde ao Desafio #02 da [Formação Github Certification
 ## 📑 Índice
 - [Introdução]()
 - [Tecnologias Utilizadas]()
-- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#-desafio-de-projeto)
+- [Desafios de Projeto](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#-desafio-de-projeto)
 - [Objetivos](https://github.com/rhayssakramer/formacao-github-certification/tree/main/Desafio%2302-Utilizando-GitHub-Copilot#%EF%B8%8F-objetivos)
   - [x] [Pré-requisitos]()
   - [x] [Estrutura do Repositório]()
