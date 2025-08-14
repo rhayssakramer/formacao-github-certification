@@ -4,7 +4,7 @@
 
 <div align="justify">
   <img src="./img/github-foundations.webp" align="left" width="80">
-  <span align="right" align-items="justify">Este repositório corresponde ao compliado de conteúdos utilizados na [Formação Github Certification](https://web.dio.me/track/formacao-github-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a formação.
+  <span align="right" align-items="justify">Este repositório corresponde ao compliado de conteúdos utilizados na <a href="https://web.dio.me/track/formacao-github-certification">Formação Github Certification</a>. Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a formação.
   </span>
 </div>
 
