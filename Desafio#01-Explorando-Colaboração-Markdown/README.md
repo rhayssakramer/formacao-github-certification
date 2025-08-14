@@ -70,7 +70,7 @@ Este desafio tem como objetivo explorar os conceitos de colaboração no GitHub 
 
 #### 🚀 Passo a Passo
 1. Criar conta e repositório
-- Acesse GitHub e crie sua conta.
+- Acesse [GitHub](https://github.com/) e crie sua conta.
 - Crie um repositório público, nomeando como desafio-github-markdown ou outro nome.
 2. Adicionar README.md
 - Crie e edite README.md com informações do desafio.
