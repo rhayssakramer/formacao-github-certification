@@ -1,4 +1,4 @@
-<img scr="./img/topo.png">
+<img src="./img/topo.png">
 
 # 🐙 Formação Github Certification
 
